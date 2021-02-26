@@ -23,7 +23,7 @@ namespace RevisaoTEP
             senha = int.Parse(txtsenha.Text);
             if (senha == 1234)
             {
-                MessageBox.Show("Acesso Permitido");
+                MessageBox.Show("Acesso Permitido. OK");
             }
             else
             {
